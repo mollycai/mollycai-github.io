@@ -15,6 +15,7 @@ const nextConfig = {
 	images: {
     unoptimized: true
   },
+	output: 'export',
 	// next 工程本身配置内容
 	reactStrictMode: true,
 }

@@ -1,3 +1,4 @@
+// @ts-ignore
 import type { DocsThemeConfig } from "nextra-theme-docs";
 import { useRouter } from "next/router";
 import React from "react";

@@ -1,2 +1,2 @@
-# mollycai-github.io
+# mollycai.github.io
 personal website
